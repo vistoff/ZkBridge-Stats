@@ -1,0 +1,7 @@
+art
+inquirer
+loguru
+termcolor
+tls_client
+XlsxWriter
+
